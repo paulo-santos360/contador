@@ -33,5 +33,3 @@ Sinta-se à vontade para contribuir com melhorias ou recursos adicionais para es
 ## Aproveite! 🚀
 
 Esperamos que você aproveite este contador interativo e o utilize para exibir suas estatísticas de maneira envolvente e eficaz. Explore as possibilidades e divirta-se!
-
-Sinta-se à vontade para copiar e colar este modelo no seu README.md no GitHub e personalizar conforme necessário. Lembre-se de substituir "seu-usuario" pelo seu nome de usuário ou organização no GitHub e adicionar ou ajustar detalhes específicos do seu projeto. 🎉📈
